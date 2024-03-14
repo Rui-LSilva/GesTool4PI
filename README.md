@@ -6,6 +6,6 @@ The "GesTool4PI" project consisted of developing a business application for mana
 
 ### Skills:
 - Telerik
-- ASP.Net
-- Visual Basic .Net
+- ASP.NET
+- Visual Basic .NET
 - CSS
